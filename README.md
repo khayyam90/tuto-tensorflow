@@ -1,7 +1,7 @@
 # Tutoriel TensorFlow
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-API-D00000?logo=keras&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-MNIST-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
